@@ -1,0 +1,61 @@
+body {
+    margin: 10px 60px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h4, h1, ol{
+    margin: 0;
+}
+
+p{
+    margin: 5px 0;
+}
+
+.top-bar{
+    background-color: skyblue;
+    padding: 0 40px;
+    
+}
+
+.main{
+    background-color: aliceblue;
+    padding: 15px 0;
+    
+}
+
+.row{
+    padding: 5px 0;
+}
+
+.bottom{
+    display: flex;
+    color: grey;
+    font-size: 12px;
+}
+
+.timestamp{
+    padding-right: 10px;
+}
+
+.title{
+    font-style: bold; 
+    font-size: large;
+}
+
+.header{
+    float: right;
+    padding: 10px;
+}
+
+.logo{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.tContent{
+    margin: 0px;
+}
