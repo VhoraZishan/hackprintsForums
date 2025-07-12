@@ -1,6 +1,4 @@
 Solo submission :Zishan Vhora 2nd Sem TYDCE MSU Polytechnic
-Contact info:vhorazishan@gmail.com 
-Github: https://github.com/gamerbadshah
 Aim: To create a safe, convinient and user friendly platform for information sharing regarding any footprints events, announcements, etc.
 Features: 
 1)Register: Create a new account
@@ -17,5 +15,4 @@ Future prospects:
 6)Encryption: Network security to make the site safer to prevent DDoS attacks, privacy leaks, and other security problems which can disrupt the websites normal usage.
 
 The website has been made with Html,CSS,JavaScript and PHP as usual. Html for the framework, php for most of the project, css was only used in bare minimum fro the looks,
-JavaScript was used for form validations and alerts only. The database was done in MySQL.
-Any questions,suggestions and critisims are welcomed on my gmail, I will continue working on it even after the hackathon to complete it and achieve all the project goals.
+JavaScript was used for form validations and alerts only. The database was done in MySQL..
